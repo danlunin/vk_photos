@@ -99,7 +99,6 @@ def form_gui_and_launch(title, local_photo_address, app_id):
 def main():
 
     local_photo_address = "photos_from_vk"
-    app_id = '5478369'
     form_gui_and_launch("VK photo downloader", local_photo_address, app_id)
 
 
